@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning **Rust lang**
 
 - 📫 How to reach me **chaudharyharsh050@gmail.com**
+- Homelab Documentation **https://terrich-hash.github.io/homelab/** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
